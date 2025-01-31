@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/a55ca953c83f1830882edb7e7a84d4417f9435002dc0eaeae4aa22be9112415c/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3663333839335f36306230326635373739616234613233396137313566343162613661303037657e6d76325f645f353030305f313434375f735f322e676966)
 <h1 align="center">Hi 👋, I'm Aryan Kumar</h1>
 <h3 align="center">Aspiring Data Analyst | Open to collaborating on data projects.</h3>
-<img align="right" alt="Coding" width="400" src="https://png.pngtree.com/png-vector/20250104/ourlarge/pngtree-energetic-young-programmer-at-work-png-image_15042881.png">
+<img align="right" alt="Coding" width="400" src="https://github.com/aryantomar357/aryantomar357/blob/main/img.png">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
