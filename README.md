@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **aryantomar357@gmail.com**
 
-- ⚡ Fun fact: **I make mistakes, but I learn from them.**
+- ⚡ **I make mistakes, but I learn from them.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
