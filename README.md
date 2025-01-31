@@ -3,8 +3,6 @@
 <h3 align="center">Aspiring Data Analyst | Open to collaborating on data projects.</h3>
 <img align="right" alt="Coding" width="400" src="https://png.pngtree.com/png-vector/20250104/ourlarge/pngtree-energetic-young-programmer-at-work-png-image_15042881.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryantomar357&label=Profile%20views&color=0e75b6&style=flat" alt="aryantomar357" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 💬 Ask me about **Database, SQL, Data Analysis, Data Visualization**
