@@ -27,9 +27,6 @@
     <td>
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aryantomar357&show_icons=true&include_all_commits=true&count_private=true"/>
     </td>
-    <td>
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aryantomar357&"/>
-    </td>
   </tr>
 </table>
 
