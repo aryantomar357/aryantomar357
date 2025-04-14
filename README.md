@@ -1,27 +1,56 @@
 ![MasterHead](https://camo.githubusercontent.com/a55ca953c83f1830882edb7e7a84d4417f9435002dc0eaeae4aa22be9112415c/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3663333839335f36306230326635373739616234613233396137313566343162613661303037657e6d76325f645f353030305f313434375f735f322e676966)
+
 <h1 align="center">Hi 👋, I'm Aryan Kumar</h1>
-<h3 align="center">Aspiring Data Analyst | Open to collaborating on data projects.</h3>
+<h3 align="center">CSE Final Year | Data Analyst & AI/ML Enthusiast | Open to Internship Opportunities</h3>
+
 <img align="right" alt="Coding" width="400" src="https://github.com/aryantomar357/aryantomar357/blob/main/img.png">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🌱 I’m currently exploring: **Advanced Machine Learning Algorithms**, **Deep Learning techniques**, and **AI-powered automation** to further enhance my skills and work on impactful AI projects.
 
-- 💬 Ask me about **Database, SQL, Data Analysis, Data Visualization**
+- 🔍 Interested in: **Machine Learning, Deep Learning, NLP, Data Analytics**
+- 💡 I love solving real-world problems using AI & Data 📊🤖
+- 📫 Reach me at: **aryantomar357@gmail.com**
+- ⚡ Fun fact: I turn coffee ☕ into code and insights.
 
-- 📫 How to reach me: **aryantomar357@gmail.com**
+---
 
-- ⚡ **I make mistakes, but I learn from them.**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aryan-kumar-70833a222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aryan-kumar-70833a222" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aryantomar357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aryantomar357" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aryantomar357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aryantomar357" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/aryan-kumar-70833a222" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aryan Kumar LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/aryantomar357" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/aryantomar357" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMrTWz33b86nfIrgaW9jE_t-7VCcqJtjL-pg&s" alt="cplusplus" width="40" height="40"/> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Microsoft-excel.png" alt="python" width="60" height="40"/> </a> <a href="https://app.powerbi.com/" target="_blank" rel="noreferrer"> <img src="https://media.datacamp.com/legacy/v1724169856/image_ff55d03003.png" alt="python" width="40" height="40"/> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  </a> </p>
+---
 
+<h3 align="left">🧠 Skills & Tools:</h3>
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Microsoft-excel.png" alt="excel" width="60" height="40"/>
+  <img src="https://media.datacamp.com/legacy/v1724169856/image_ff55d03003.png" alt="powerbi" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>
+</p>
+
+---
+
+<h3 align="left">📈 GitHub Stats</h3>
 <table>
   <tr>
     <td>
@@ -29,7 +58,6 @@
     </td>
   </tr>
 </table>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryantomar357/aryantomar357/output/github-snake-dark.svg" />
